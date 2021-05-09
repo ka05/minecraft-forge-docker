@@ -4,7 +4,7 @@
 
 ![step-1-curseforge-dashboard](./images/step-1-curseforge-dashboard.png)
 
-2. Download CurseForge Profile [curse-forge-profile.zip](./profiles/curse-forge-profile.zip)
+2. Download CurseForge Profile [curse-forge-profile.zip](./../profiles/curse-forge-profile.zip)
 
 ![step-2-create-custom-profile](./images/step-2-create-custom-profile.png)
 
