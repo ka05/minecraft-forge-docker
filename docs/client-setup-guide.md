@@ -16,7 +16,7 @@
 
 ![step-4-browse-to-profile-file](./images/step-4-browse-to-profile-file.png)
 
-5. Select the downloaded zip file "Minecraft - The Guys.zip"
+5. Select the downloaded zip file "curse-forge-profile.zip"
 
 ![step-5-minecraft-launcher](./images/step-5-minecraft-launcher.png)
 
