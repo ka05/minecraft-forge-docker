@@ -21,3 +21,8 @@
 ![step-5-minecraft-launcher](./images/step-5-minecraft-launcher.png)
 
 6. You should see a new item under "My Modpacks" called "Minecraft - The Guys". Wait for mods to download then hit play. This will launch the Minecraft Launcher. Login if you haven't yet and then hit "Play" and connect to the server IP.
+
+
+![step-6-minecraft-mod-out-of-date-warning](./images/step-6-minecraft-mod-out-of-date-warning.png)
+
+7. If you run into this warning when launching the game, just select "No".
