@@ -38,7 +38,7 @@ See [client-setup-guide.md](docs/client-setup-guide.md) to setup your minecraft 
 |-------------------------------------------------------------------------------------|--------------------------------------------|-------------------|-------------------------|
 | [Additional Lights](https://www.curseforge.com/minecraft/mc-mods/additional-lights) | `mods\additional_lights-1.16.4-2.1.3.jar`  | 1.17.1            |                         |
 | [Apple Skin](https://www.curseforge.com/minecraft/mc-mods/appleskin)                | `mods\AppleSkin-mc1.16.2-forge-1.0.14.jar` | 1.18              |                         |
-| [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-forge)     | `mods\architectury-1.19.27-forge.jar`      | 1.16.5            |                         |
+| [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-forge)     | `mods\architectury-1.19.27-forge.jar`      | 1.18            |                         |
 | [Auto Reg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)             | `mods\AutoRegLib-1.6-47.jar`               | 1.16.5            | Dependency of Quark     |
 | [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge)     | `mods\cloth-config-4.11.26-forge.jar`      | 1.18.1            |                         |
 | [Discord Integration](https://www.curseforge.com/minecraft/mc-mods/dcintegration)   | `mods\dcintegration-forge-2.1.1-1.16.jar`  | 1.12.2            |                         |
