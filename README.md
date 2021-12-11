@@ -15,6 +15,11 @@ Using the following Docker images:
 docker-compose up
 ```
 
+Ensure `/server` dir has proper permissions:
+
+On Windows: `takeown /F server /A /R` 
+On Linux/OSX: `chown -R server`
+
 **NOTE**: By providing EULA=TRUE you agree to the EULA at https://account.mojang.com/documents/minecraft_eula.
 
 ## Environment Variables
@@ -24,3 +29,7 @@ docker-compose up
 ## Docs / Guides
 
 See [client-setup-guide.md](docs/client-setup-guide.md) to setup your minecraft client.
+
+## Mods List
+
+- [XP Tome](https://www.curseforge.com/minecraft/mc-mods/xp-tome)
