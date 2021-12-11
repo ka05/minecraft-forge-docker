@@ -3,9 +3,11 @@
 docker-compose for the Forge modded server with a couple of mods installed and a sidecar for backup/restore to Amazon S3.
 
 Using the following Docker images: 
-- itzg/minecraft-server:latest
-- quay.io/spesnova/dockup:latest 
-- quay.io/spesnova/dockup:latest
+
+| Docker Image                   | Dockerhub                                                               | Github                                                                          |
+|--------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| itzg/minecraft-server:latest   | [itzg/minecraft-server](https://hub.docker.com/r/itzg/minecraft-server) | [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) |
+| quay.io/spesnova/dockup:latest | -                                                                       | [spesnova/dockup](https://github.com/spesnova/dockup)                           |
 
 ( See docker-compose.yml )
 
