@@ -1,9 +1,7 @@
-version: "3.7"
-
 services:
   mc:
     container_name: mc
-    image: itzg/minecraft-server:latest
+    image: itzg/minecraft-server:java17
     # restart: unless-stopped
     volumes:
       # use a named, managed volume for data volume
@@ -15,6 +13,7 @@ services:
     ports:
       # expose the Minecraft server port outside of container
       - 25565:25565
+      - 25575:25575
 
   backup:
     container_name: mc_backup
@@ -23,7 +22,6 @@ services:
     volumes:
       - ./server:/server/server-data
     env_file: .env
-
 #  restore:
 #    image: quay.io/spesnova/dockup:latest
 #    command: restore
